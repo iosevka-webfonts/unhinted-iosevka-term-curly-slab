@@ -1,4 +1,4 @@
-# Unhinted Iosevka Term Curly Slab WebFont 24.1.0
+# Unhinted Iosevka Term Curly Slab WebFont 24.1.1
 
 ## How to use
 
